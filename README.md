@@ -21,7 +21,7 @@
 </div>
   <br/><br/>
   
-  ## 👨🏾‍💻 Desenvolvedor Full stack e eterno aprendiz! 💻
+  ## 👨🏾‍💻 Desenvolvedor Full stack e eterno aprendiz!. 💻
   <br/>
 
 <div align="center"> 
