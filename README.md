@@ -33,7 +33,7 @@
    ![Snake animation](https://github.com/brenusaraujo/brenusaraujo/blob/output/github-contribution-grid-snake.svg)
 </div>
  
- ## Um pouco sobre mim: 🙋‍♀️
+ ## Um pouco sobre mim: 👨🏾‍💻
 
 - 🌱 Atualmente aprendendo Redux.
 - 🤔 Aceito qualquer dica para potencializar meus estudos e para começar minha carreira como júnior.
