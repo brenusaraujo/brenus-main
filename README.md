@@ -35,7 +35,7 @@
  
  ## Um pouco sobre mim: 👨🏾‍💻
 
-- 🌱 Atualmente aprendendo MySQL.
+- 🌱 Atualmente aprendendo Sequelize e Node.js.
 - 🤔 Aceito qualquer dica para potencializar meus estudos e para começar minha carreira como júnior.
 - 🗣️ Me comunico bem em português, inglês e espanhol, arranho no francês e amo estudar novas línguas e culturas 🇧🇷🇬🇧🇪🇸🇫🇷
 - 💬 Adoro conversar sobre novidades tecnológicas, séries, viagens e *FUTEBOL!* ⚽️
