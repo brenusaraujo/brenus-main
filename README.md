@@ -1,4 +1,4 @@
-## Olá, eu sou o Breno! 👋
+## Hey there, I'm Breno! 👋
 
 <div align="center">
   <a href="https://github.com/brenusaraujo">
@@ -22,7 +22,7 @@
 </div>
   <br/><br/>
   
-  ## 👨🏾‍💻 Desenvolvedor Full stack e eterno aprendiz! 💻
+  ## 👨🏾‍💻 Fullstack developer and always a great learner! 💻
   <br/>
 
 <div align="center"> 
@@ -34,12 +34,12 @@
    ![Snake animation](https://github.com/brenusaraujo/brenusaraujo/blob/output/github-contribution-grid-snake.svg)
 </div>
  
- ## Um pouco sobre mim: 👨🏾‍💻
+ ## About myself: 👨🏾‍💻
 
-- 🌱 Atualmente aprendendo Sequelize e Node.js.
-- 🤔 Aceito qualquer dica para potencializar meus estudos e para começar minha carreira como júnior.
-- 🗣️ Me comunico bem em português, inglês e espanhol, arranho no francês e amo estudar novas línguas e culturas 🇧🇷🇬🇧🇪🇸🇫🇷
-- 💬 Adoro conversar sobre novidades tecnológicas, séries, viagens e *FUTEBOL!* ⚽️
+- 🌱 Learning Sequelize and Node.js.
+- 🤔 I'm excited to start contributing to new projects and ideas.
+- 🗣️ I'm brazilian and I can speak comunicate in English and Spanish pretty well. I've been an English and Spanish teacher for some years. 🇧🇷🇬🇧🇪🇸🇫🇷
+- 💬 I love to talk about travel, politics, technologies and *FOOTBALL* ⚽️
   
-  <h1 align="center"> :thumbsup: Volte sempre! :thumbsup:  </h1>
+  <h1 align="center"> :thumbsup: Feel free to contact me ;D :thumbsup:  </h1>
  
