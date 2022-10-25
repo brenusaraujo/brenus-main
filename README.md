@@ -16,6 +16,7 @@
   <img align="center" alt="breno-Node" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="breno-Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="breno-Jest" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="breno-Jest" height="60" width="80" src="https://cdn.jsdelivr.net/npm/simple-icons@7.17.0/icons/typescript.svg">
  <br/><br/>
   <img align="right" alt="breno-avatar" height="150" src="https://i.pinimg.com/originals/89/51/92/895192a0e014bbf0b8b2d528d9e17b00.jpg">
 </div>
