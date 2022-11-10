@@ -21,7 +21,6 @@
   <img align="right" alt="breno-avatar" height="150" src="https://i.pinimg.com/originals/89/51/92/895192a0e014bbf0b8b2d528d9e17b00.jpg">
 </div>
   <br/><br/>
-  
   ## 👨🏾‍💻 Fullstack developer and always a great learner! 💻
   <br/>
 
