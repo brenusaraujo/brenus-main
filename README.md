@@ -7,7 +7,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenusaraujo&layout=compact&langs_count=7&theme=darcula"/>
 </div>
   <br/><br/>
-<div style="display: inline_block" align="center"><br>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,react,bootstrap,jest,mysql,nodejs,express,redux" />
+  </a>
+<!-- <div style="display: inline_block" align="center"><br>
   <img align="center" alt="breno-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="breno-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="breno-Redux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
@@ -20,7 +23,7 @@
   <img align="center" alt="breno-Jest" height="60" width="80" src="https://cdn.jsdelivr.net/npm/simple-icons@7.17.0/icons/typescript.svg">
  <br/><br/>
   <img align="right" alt="breno-avatar" height="150" src="https://i.pinimg.com/originals/89/51/92/895192a0e014bbf0b8b2d528d9e17b00.jpg">
-</div>
+</div> -->
   <br/><br/>
 
   
