@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenusaraujo&layout=compact&langs_count=7&theme=darcula"/>
 </div>
   <br/><br/>
-  <a href="#" target="_blank">
+  <a href="#" target="_blank" style="display: inline_block" align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,git,react,bootstrap,jest,mysql,nodejs,express,redux" />
   </a>
 <!-- <div style="display: inline_block" align="center"><br>
