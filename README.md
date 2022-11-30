@@ -10,7 +10,7 @@
   <a href="#" target="_blank" style="display: inline_block" align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,git,react,bootstrap,jest,mysql,nodejs,express,redux" />
   </a>
-<!-- <div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="breno-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="breno-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="breno-Redux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
