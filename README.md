@@ -13,16 +13,6 @@
   <a href="#" target="_blank" style="display: inline_block" align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,git,react,bootstrap,jest,mysql,nodejs,express,redux,typescript,mongodb" />
   </a>
-<!--   <img align="center" alt="breno-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
-<!--   <img align="center" alt="breno-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-<!--   <img align="center" alt="breno-Redux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"> -->
-<!--   <img align="center" alt="breno-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -->
-<!--   <img align="center" alt="breno-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -->
-<!--   <img align="center" alt="breno-SQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> -->
-<!--   <img align="center" alt="breno-Node" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> -->
-<!--   <img align="center" alt="breno-Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> -->
-<!--   <img align="center" alt="breno-Jest" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> -->
-<!--   <img align="center" alt="breno-Jest" height="60" width="80" src="https://cdn.jsdelivr.net/npm/simple-icons@7.17.0/icons/typescript.svg"> -->
  <br/><br/>
   <img align="right" alt="breno-avatar" height="150" src="https://i.pinimg.com/originals/89/51/92/895192a0e014bbf0b8b2d528d9e17b00.jpg">
 </div>
