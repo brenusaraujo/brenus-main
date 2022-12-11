@@ -34,7 +34,7 @@
  
  ## About myself: 👨🏾‍💻
 
-- 🌱 Learning <b/>MongoDB and Oriented-object Programming.</b>
+- 🌱 Learning <b/>MongoDB, Oriented-object Programming, C# and .NET.</b>
 - 🤔 I'm excited to start contributing to new projects and ideas.
 - 🗣️ I'm brazilian and I can speak comunicate in English and Spanish pretty well. I've been an English and Spanish teacher for some years. 🇧🇷🇬🇧🇪🇸🇫🇷
 - 💬 I love to talk about travel, politics, technologies and *FOOTBALL* ⚽️
